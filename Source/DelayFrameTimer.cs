@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace GameUtil
+namespace UnityTimer
 {
     public class DelayFrameTimer : Timer
     {

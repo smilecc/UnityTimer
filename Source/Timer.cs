@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using Object = UnityEngine.Object;
 
-namespace GameUtil
+namespace UnityTimer
 {
     /// <summary>
     /// Allows you to run events on a delay without the use of <see cref="Coroutine"/>s

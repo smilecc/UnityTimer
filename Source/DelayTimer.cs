@@ -1,6 +1,6 @@
 using System;
 
-namespace GameUtil
+namespace UnityTimer
 {
     public class DelayTimer : Timer
     {

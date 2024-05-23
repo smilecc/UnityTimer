@@ -1,7 +1,7 @@
 using System;
-using GameUtil;
+using UnityTimer;
 using UnityEngine;
-using UpdateMode = GameUtil.Timer.UpdateMode;
+using UpdateMode = UnityTimer.Timer.UpdateMode;
 
 /// <summary>
 /// Contains extension methods related to <see cref="Timer"/>s.
